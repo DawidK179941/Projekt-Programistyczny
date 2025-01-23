@@ -1,0 +1,4 @@
+Najwieksze pole prostokata z jedynek (Brute Force): 500
+Czas wykonania (Brute Force): 0 ms
+Najwieksze pole prostokata z jedynek (DP): 500
+Czas wykonania (DP): 4 ms
